@@ -1,2 +1,4 @@
 # IngSoftware
-Repositorio prueba para ing de software
+Nicole Cazorla 
+Nro estudiante 180379
+:smile:
